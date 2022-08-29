@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300&display=swap%27');
+
+body{
+    background: #4c597c !important;
+    font-family: 'Quicksand', sans-serif !important;
+}
+
+.navbar{
+   background-color: #010101;
+   opacity: 70%;
+}
+.text{
+    color: white;
+}
+
+.navbar-brand{
+   color: white !important;
+}
+.nav-link {
+    color: white !important;
+}
+h1{
+    text-align: center;
+    color: white;
+}
